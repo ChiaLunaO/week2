@@ -5,7 +5,7 @@ Install the required node modules by running:
 npm install
 ```
 
-Try running some of the following tasks:
+Try running some of the following tasks :
 
 ```shell
 . scripts/compile-circuit.sh && node scripts/bump-solidity.js
